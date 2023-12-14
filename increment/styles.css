@@ -1,0 +1,16 @@
+button {
+  background-color: aqua;
+  /* font-size: 33; */
+}
+h1 {
+  /* font-size: 45; */
+}
+
+#app {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+}
